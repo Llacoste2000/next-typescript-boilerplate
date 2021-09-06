@@ -1,10 +1,23 @@
+/*
+ * DESIGN SYSTEM
+*/
+
 // Breakpoints
 $layout-breakpoint-large: 1920px;
 $layout-breakpoint-medium: 1440px;
 $layout-breakpoint-small: 960px;
 $layout-breakpoint-xsmall: 480px;
 
+//Grid Options
+$grid-side-margin-large: 50px;
+$grid-side-margin-small: 20px;
+$grid-gutter-large: 20px;
+$grid-gutter-small: 10px;
+
+/*
+ * GRAPHIC CHARTER
+*/
+
 // Colors
-$background: #fdfdfd;
-$white: #fff;
-$black: #24242a;
+$color-light: #fff;
+$color-dark: #111;
